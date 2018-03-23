@@ -110,8 +110,9 @@ Markdown支持4中文本样式，分别是：加粗、斜体、删除线和加�
 
 ## 锚点
 
-[回到顶部](#posStart)  
-[回到尾部](#posEnd)
+[回到尾部](#posEnd)  
+[回到顶部](#posStart)
+
 
 ```
 [回到顶部](#posStart)  
@@ -240,4 +241,4 @@ GitHub中的Markdown语法扩展中包括了一些表情包。这个表情包语
 
 ![我](https://mypics.zhaopin.cn/pic/2016/2/19/FD53644156A541AFB20977966FABFEEF.jpg)
 
-<a name=posEnd />
+<a id=posEnd />
